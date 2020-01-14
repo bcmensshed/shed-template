@@ -1,3 +1,3 @@
 # Instructions
 
-## How to create a posy
+## How to create a post
